@@ -453,3 +453,31 @@ ul {
     scroll-behavior: auto !important;
   }
 }
+
+/* Nút đăng nhập và đăng ký trên thanh menu */
+.main-nav .nav-list .nav-auth {
+    display: inline-block;
+    padding: 8px 15px;
+    border: 1px solid #08c99a;
+    border-radius: 6px;
+    color: #08a982;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.25s ease;
+}
+
+.main-nav .nav-list .nav-auth:hover {
+    background: #08c99a;
+    color: #fff;
+    transform: translateY(-2px);
+}
+
+.main-nav .nav-list .nav-register {
+    background: #08c99a;
+    color: #fff;
+}
+
+.main-nav .nav-list .nav-register:hover {
+    background: #079c79;
+    border-color: #079c79;
+}
