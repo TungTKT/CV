@@ -458,26 +458,26 @@ ul {
 .main-nav .nav-list .nav-auth {
     display: inline-block;
     padding: 8px 15px;
-    border: 1px solid #08c99a;
+    border: 1px solid #2563eb;
     border-radius: 6px;
-    color: #08a982;
+    color: #2563eb;
     text-decoration: none;
     font-weight: 600;
     transition: all 0.25s ease;
 }
 
 .main-nav .nav-list .nav-auth:hover {
-    background: #08c99a;
+    background: #2563eb;
     color: #fff;
     transform: translateY(-2px);
 }
 
 .main-nav .nav-list .nav-register {
-    background: #08c99a;
+    background: #2563eb;
     color: #fff;
 }
 
 .main-nav .nav-list .nav-register:hover {
-    background: #079c79;
-    border-color: #079c79;
+    background: #1d4ed8;
+    border-color: #1d4ed8;
 }
